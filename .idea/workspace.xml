@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4ed4fd9-3a5c-4a66-a525-8b78d9749efc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1 f строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1 ветвления.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1 циклы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Рассчёт выручки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/задачки на списки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/календарик.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/отсечь не число.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/поиск наибольшего числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/попарная замена.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/преобразование вводимых данных.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/преобразование секунд в часы и минуты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/реализация структуры данных.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/составление рейтинга.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/сумма чисел введённого числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/фитнес часы.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/поиск наибольшего числа.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="34SoU8XhrYAPaT5NJeScOR2BuO2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.AI.executor": "Run",
+    "Python.Lesson_1 f строки.executor": "Run",
+    "Python.Lesson_1 ветвления.executor": "Run",
+    "Python.Lesson_1 циклы.executor": "Run",
+    "Python.Lesson_1.executor": "Run",
+    "Python.hometask-2.executor": "Run",
+    "Python.hometask-3.executor": "Run",
+    "Python.ДЗ 1.executor": "Run",
+    "Python.Рассчёт выручки.executor": "Run",
+    "Python.задачки на списки.executor": "Run",
+    "Python.календарик.executor": "Run",
+    "Python.отсечь не число.executor": "Run",
+    "Python.поиск наибольшего числа.executor": "Run",
+    "Python.попарная замена.executor": "Run",
+    "Python.преобразование вводимых данных.executor": "Run",
+    "Python.преобразование секунд в часы и минуты.executor": "Run",
+    "Python.реализация структуры данных.executor": "Run",
+    "Python.составление рейтинга.executor": "Run",
+    "Python.список.executor": "Run",
+    "Python.сумма чисел введённого числа.executor": "Run",
+    "Python.фитнес часы.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4ed4fd9-3a5c-4a66-a525-8b78d9749efc" name="Changes" comment="" />
+      <created>1761216347148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761216347148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
